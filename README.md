@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://postmio.com">postmio<a/><br>👨‍💻 All of my projects are available at https://diyar.net.tr<br>📝 I regularly write articles on https://diyar.net.tr/blog<br>💬 Ask me about react.js, next.js, react-native, php, laravel, js, jquery<br>📫 How to reach me diyar@pekasoft.com
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyardev" alt="diyardev" /></a> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyar.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diyar-akengin) 
@@ -21,7 +22,5 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![]([https://visitcount.itsvg.in/api?id=diyardev&icon=6&color=2](https://github-profile-trophy.vercel.app/?username=diyardev))](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
