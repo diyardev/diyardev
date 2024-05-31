@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://postmio.com">postmio<a/><br>👨‍💻 All of my projects are available at https://diyar.net.tr<br>📝 I regularly write articles on https://diyar.net.tr/blog<br>💬 Ask me about react.js, next.js, react-native, php, laravel, js, jquery<br>📫 How to reach me diyar@pekasoft.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyardev" alt="diyardev" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyardev&label=Profile%20views&color=0e75b6&style=flat" alt="diyardev" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyar.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diyar-akengin) 
