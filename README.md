@@ -1,5 +1,5 @@
 # Hi 👋, I'm Diyar Akengin 💫 
-🔭 I’m currently working on <a href="https://postmio.com">postmio<a/><br>👨‍💻 All of my projects are available at https://diyar.net.tr<br>📝 I regularly write articles on https://diyar.net.tr/blog<br>💬 Ask me about react.js, next.js, react-native, php, laravel, js, jquery<br>📫 How to reach me diyar@pekasoft.com
+👨‍💻 All of my projects are available at https://diyar.net.tr<br>📝 I regularly write articles on https://diyar.net.tr/blog<br>💬 Ask me about react.js, next.js, react-native, php, laravel, js, jquery<br>📫 How to reach me diyar@pekasoft.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyardev&label=Profile%20views&color=E34F26&style=flat" alt="diyardev" /> </p>
 
