@@ -1,5 +1,5 @@
 # Hi 👋, I'm Diyar Akengin 💫 
-👨‍💻 All of my projects are available at https://diyar.net.tr<br>💬 Ask me about react.js, next.js, react-native, php, laravel, js, jquery<br>📫 How to reach me diyar@pekasoft.com
+👨‍💻 All of my projects are available at https://diyar.tr<br>💬 Ask me about react.js, next.js, react-native, php, laravel, js, jquery<br>📫 How to reach me diyar@akengin.tr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyardev&label=Profile%20views&color=E34F26&style=flat" alt="diyardev" /> </p>
 
